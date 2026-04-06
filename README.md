@@ -50,8 +50,8 @@ https://github.com/wedwincode/java-rest-aggregator
 App simulating a vacancy recommendation system  
 https://github.com/wedwincode/job-tracking
 
-**Habr reader bot**
-Telegram bot for tracking and reminding unread Habr articles
+**Habr reader bot**  
+Telegram bot for tracking and reminding unread Habr articles  
 https://github.com/wedwincode/habr-reader-bot
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=wedwincode&show_icons=true&cache=0&theme=transparent)
