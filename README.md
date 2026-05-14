@@ -34,8 +34,9 @@ Peter the Great St. Petersburg Polytechnic University
 
 ## Certificates:
 
-- [SQL](https://otus.ru/certificate/16d72b43-d439-46f4-8117-2c539e97a999/download/?lang=ru-ru)
-- [Product Management](https://education.vk.company/curriculum/certificates/download/96389/6a277e17-52f4-4b9f-acd7-da6bfccfa484/)
+- [1st Place at the "Modern Technologies in Programming Theory and Practice" Conference](https://drive.google.com/file/d/1OS85KCiMJrhLJhlFAHvSokYUCNE1A_AL/view?usp=sharing)
+- [SQL course](https://otus.ru/certificate/16d72b43-d439-46f4-8117-2c539e97a999/download/?lang=ru-ru)
+- [Product Management course](https://education.vk.company/curriculum/certificates/download/96389/6a277e17-52f4-4b9f-acd7-da6bfccfa484/)
 
 ## Projects:
 
